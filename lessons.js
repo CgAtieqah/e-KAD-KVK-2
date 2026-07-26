@@ -30,5 +30,13 @@ const lessons = [
     audio: 'audio/cacat.mp3',
     highlight1: 200,
     highlight2: 1700
+  },
+  {
+    id: 'cacat2',
+    part1: 'CA',
+    part2: 'CAT',
+    audio: 'audio/cacat.mp3',
+    highlight1: 200,
+    highlight2: 1700
   }
 ];
