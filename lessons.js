@@ -159,5 +159,13 @@ const lessons = [
     highlight1: 200,
     highlight2: 1700
   },
+ {
+    id: 'tutuk',
+    part1: 'TU',
+    part2: 'TUK',
+    audio: 'audio/tutuk.m4a',
+    highlight1: 200,
+    highlight2: 1700
+  },
 ];
 
