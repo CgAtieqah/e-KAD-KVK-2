@@ -135,6 +135,14 @@ const lessons = [
     highlight1: 200,
     highlight2: 1700
   },
+  {
+    id: 'ririm',
+    part1: 'RI',
+    part2: 'RIM',
+    audio: 'audio/ririm.m4a',
+    highlight1: 200,
+    highlight2: 1700
+  },
 
   
 ];
