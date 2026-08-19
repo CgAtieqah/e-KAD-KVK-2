@@ -151,6 +151,13 @@ const lessons = [
     highlight1: 200,
     highlight2: 1700
   },
-  
+  {
+    id: 'tatan',
+    part1: 'TA',
+    part2: 'TAN',
+    audio: 'audio/tatan.m4a',
+    highlight1: 200,
+    highlight2: 1700
+  },
 ];
 
