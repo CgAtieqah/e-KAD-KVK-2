@@ -167,5 +167,14 @@ const lessons = [
     highlight1: 200,
     highlight2: 1700
   },
+ {
+    id: 'tutum',
+    part1: 'TU',
+    part2: 'TUM',
+    audio: 'audio/tutum.m4a',
+    highlight1: 200,
+    highlight2: 1700
+  },
+
 ];
 
