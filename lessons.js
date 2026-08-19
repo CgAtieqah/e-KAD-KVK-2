@@ -143,7 +143,14 @@ const lessons = [
     highlight1: 200,
     highlight2: 1700
   },
-
+  {
+    id: 'susut',
+    part1: 'SU',
+    part2: 'SUT',
+    audio: 'audio/susut.m4a',
+    highlight1: 200,
+    highlight2: 1700
+  },
   
 ];
 
