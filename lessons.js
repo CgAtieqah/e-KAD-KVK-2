@@ -119,6 +119,14 @@ const lessons = [
     highlight1: 200,
     highlight2: 1700
   },
+  {
+    id: 'kakan',
+    part1: 'KA',
+    part2: 'KAN',
+    audio: 'audio/kakan.m4a',
+    highlight1: 200,
+    highlight2: 1700
+  },
 
   
 ];
