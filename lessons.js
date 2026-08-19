@@ -127,6 +127,14 @@ const lessons = [
     highlight1: 200,
     highlight2: 1700
   },
+  {
+    id: 'kokok',
+    part1: 'KO',
+    part2: 'KOK',
+    audio: 'audio/kokok.m4a',
+    highlight1: 200,
+    highlight2: 1700
+  },
 
   
 ];
